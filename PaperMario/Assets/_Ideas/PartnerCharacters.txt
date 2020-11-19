@@ -1,0 +1,510 @@
+Partner Characters
+
+===========
+Toy Soldier
+===========
+
+Name : Smashy
+
+For the time being this will be a partner that you come across.
+He will always have a winder on his back that is always spinning,
+when he is overclocked the speed of the winder is trippled & he 
+shall have steam coming off of him with a red tint adjusting his 
+colour. His animation speed shall increase while this is active.
+
+This guy can have a skeletal like structure underneath but will not be undead
+He will just be a skeleton knight toy. When hit, sometimes his armor will fly off and
+his skeletal structure will show. random peices will fly when hit. at times his whole
+outfit will fly and hell be wearing the generic wgite boxers with hearts all over it, 
+some characters in the field may whistle  and hell cover his private parts and run to 
+grab his armor. when his armor flies off when getting hit it will just roll back to
+the character and he will put it back on, there will be a 30% chance that his bones 
+inside will fly. If they do depending on his part he will do specific animations shall
+happen.
+
+This is regarding the bones fly off inside the armor; If his head gets knocked off,
+he shall put his hands out and feel around straight and then go to the floor where it 
+should be rolled back to his feet and puts it back on. If one of his arms gets knocked 
+off then he shall just look at where his arm should b and turn around and pick it up 
+with the opposing hand. If his chest gets knocked out then his legs will still be standing
+and his head and arms will be on the floor, his head will hop and turn around and both 
+hands will be both up in the air waving his torso back over. if its one of his legs it 
+will fly back and hop back over,but the character will just stand in place and not 
+acknowledge that his leg was missing.
+
+4 abilities
+
+Pummel/Smash - (Starting Basic Move) Ground only, hits the front ground
+target only.
+
+Self toss - (Final Upgrade) Character Tosses himself at the enemy
+ peice by peice, If overclocked then this shall do an additional
+ 1 damage per hit. The last peice shall always be his hand that 
+goes in a punching animation towards the enemy.
+
+Over Clock - (First Upgrade) For the next 3 turns this unit will 
+do double damage. When this is finished this unit will be burnt 
+out & require a turn to recharge, may have his defense be temporarily
+ lowered during this phase. On the turn he turns burns out he shall not 
+ be able to attack and the turn after only deal half damage. After that 
+ turn his overworld ability shall be available again and he shall be able 
+ to back to normal.
+
+Block stomp - (Starting Ability) this unit will throw parts of lego/Toyland
+ peices together & it shall fall down on the target enemy. These components
+shall be random doodads from the toyland enviornment & depending on the 
+level it could affect the asthetics of the block & colour.
+
+Overworld Ability
+
+ideas, could build a fucking bomb and use that to blow shit up, 
+but then why wouldnt he use that in battle?
+block stomp could be used as a ground pound type feature in the overworld, 
+sending heavy blocks down and smashing everything under it.
+he could wind himself up and hold until the button is realeased and do a 
+charged smash type attack as well? but the player has his own wind up/ charge
+ slash so thats useless. figure out more ideas in time
+
+ the block will be used like a weight such as those stupid crates in the 
+ water temple when your a kid on ocarina of time. another use for them could
+ be special placed aspects of the map where itll look like a bridge start but 
+ itll lead the player to know that the toy soldier can drop a part there and 
+ itll connect and not break. once its in a place where it belongs it whall be 
+ there for the duration of the game. blocks dropped in spots where it doesnt 
+ belong shall be destroyed upon contacting the ground.
+ In the dungeon where you use this guy we can have him be used where he drops 
+ the weights on one side of a teeter style system and uses it to bring the player 
+ up to an area where he cannot jump to. Any blocks that are dropped in a correct 
+ location cannot and will not break, they may change color or an indicator telling 
+ the player that they have done something correct. when falling they will fall in 
+ a particular location, such as if the players location is 1.2323535 on the x 
+ and -5.78565 it shall round either to a whole number or half, this shall ensure 
+ a grid type location and make it easier for the player to lock blocks into places. 
+ as well as marking an area on the floor to assist the player from either side to 
+ help the stand in the correct location and use the ability.
+
+
+=============
+Water Warrior
+=============
+
+Name : Soka
+
+his name will orignate from Sokka from the water tribe on avatar, Soak as the 
+reference and Soka from someone whom I use to work with.
+
+Water Warrior shall be called the wave scimitar. Armor Style Shall be 
+similar to the design of the glass armor in Skyrim/oblivion.
+This character shall be aquired in a beach/jungle type enviornment?
+The armor shall have a wave like shader effect on it. it will not adjust
+ the physical appearance of the armor, just move along in it. It will be a
+bright blue/ blue type of armor. water type attacks shall not hurt this
+partner and fire shall do half. maybe have certain water attacks do half
+ as well? water particle effects will be used on attacks, plus another 
+for when they are in contact with the enemy.
+
+4 abilities
+
+Slash - (Starting Basic Move) Ground only, hits the first 
+target only. Basic slash, same as main characters, when
+ this character level increases so will the damage on this attack.
+
+Crush Wave - (First Upgrade) Character shall raise his sword with water 
+behind him and do a splashing motion causing the wave to head to the 
+right side of the screen damaging every unit within this process. This
+ attack is a water type attack.
+
+Gyser Stab - (Starting Ability) This shall create a gyser underneith the
+ single target, shooting them up in the air. this will do +1 damage to 
+fire type units, cuts through defense. The animation shall show the water
+ warrior stab into the floor.
+
+the partner shall have a small chance, going to say 1/10 where the player
+launches the enemy straight into the air but instead of going up and coming
+ down, theres a chance where they just smash up, hit a light fixture and 
+come back down and the light fixture comes down and hits the enemy unit 
+causing an additional 1 damage to the enemy unit.
+
+Hydro Splash Slash - (Final Upgrade) - This shall damage all units in a line,
+so only all ground units or all air units, this shall damage all units but 
+will do -1 on water type targets and +1 on fire.
+
+Overworld Ability
+
+This unit shall make a sprinkler like gyser that evevates the character. His 
+ability will be used to make the character get up to heights where he can 
+grab special items, water flowers/plants to be used to gain access to certain
+ areas/ gain particular treasures. as well as put out fires to gain access to 
+pathways that have been previously blocked.
+
+==============
+Fire Character
+==============
+
+Name : ???
+
+furnace type face with horns
+shall blow fire for ability and it shall burn particular areas and melt ice, 
+start fires in particular areas that are set will be used in combination with
+the ice guys wind outworld ability to help spread the fire for combined use
+This character shall have a custom shader built onto him that will combine his
+health with his style, he shall have a flamethrower grate on his gauntlent that
+shall shoot out little flames when he is using a regular attack. his custom 
+shader will have him go from extremely dull looking to red to a bright orange
+when at full health. he shall be a big bulky looking unit such as a pekka and 
+have horns to emphasis his size in combination with his war hammer, his hammer 
+shall share that special look where when he is at full health itll have a flame 
+style look in it as if the inside of the hammer is burning, but when he is low 
+health it shall look blackish like it is burnt out. The staff of the weapon will
+always look the same.
+
+there shall be piles of fire where this unit can put on fire to help with the paper
+plane ability where when going through and you hit an open flame you shall be pushed
+up in the air. this shall be used to obviously get to places that were unreachable.
+
+another idea for this character can be that he has the heart of a phoneix and he is
+blessed in the abilities of fire. he urns for death out in the battlefield as all
+great warriors do but upon the story line he shall become somewhat currport and die.
+probably at the end, and when he learns that he is unable to die he becomes somehwat 
+depressed do to this and if there is a next game regarding this he shall be drinking
+in he bar sad with the main player from this game and the archer.
+
+
+4 abilities
+
+bash/smash/welt/whack - (probably bash, Starting Basic Move) Ground only, hits 
+the first target only. Basic slash, same as main characters, when this character
+level increases so will the damage on this attack. possibly make  it cut through
+the enemies defense by one point.
+
+Flamethrower - (Starting Ability) The Fire character shall walk up towards the 
+enemies and he shall breathe in heavily and shoot a flamethrower damaging this 
+unit and the next 2 behind it, regardless if its a flying unit or not
+
+Fire Charge - (First Upgrade) The fire character shall cloak himself in flames 
+and charge at every ground unit and deal damage to each and every one of them, 
+cutting through there defense.
+
+FireBall Smash - (Final Upgrade) The Fire Character Shall breathe out a fireball
+into his hand, then throw it in the air and it shall be smashed by his hammer 
+into the targetted unit. upon contact this shall do a small explosion dealing 
+heavy damage to the enemy target and hitting the surrounding units with small 
+damage, only the units adjacent to it. (if there are 3 units and it hits the 
+middle both shall be damaged, if it would hit the first only the second would 
+receive damage. if there are 5 enemies and the middle guy is hit the units in 
+position 2 and 4 would receive small amounts of damage.)
+
+Overworld Ability
+
+This unit shall start to breathe out fire burning everything in its path.
+This shall burn tinder, melt ice, essentially start fires and can be used to 
+destroy certain aspects and open up areas, there will be a furnace that has 
+gone dead and his ability shall bring it back to life. more uses of his ability 
+will be made upon being thought of. another is there shall be an asshole frozen 
+in the ice area inside of his house and you will melt him, upo being defrosted 
+you shall still need to start his firepit up and that shall get it going.
+
+=============
+Ice Character
+=============
+
+Name : ???
+
+This shall be an arangatang/silverback anatamy creature. he can create ice like 
+objects and use them as weapons. He shall be tall but lean. his body will be 
+made out of ice. He shall not talk but have the ability to grunt.
+
+4 abilities
+
+Icicle Spear - (Starting Basic Move) The character walks up forward to an attacking spot on 
+the stage, stabs his hand down as 
+if he already has a staff/spear in his hand and it will be created when doing this.
+then he shall progress and toss the spear at the enemy.
+
+Icy Wind - (Starting Ability) The Character shall walk up, pull his arms in towards himself
+as a quick charge and then shoot them outwards away from himself. while charging youll hear
+the winds of shit in the distance start to stir up and ice start to build up upon his body.
+Upon release the built up ice will break away from his body and get caught in the wind, some
+ice shall be created from the wind and cut up every enemy. this shall damage each and every, 
+this shall do extra damage to water enemies. This has a chance of freezing the enemies.
+
+Ice punch - (First Upgrade) he shall do a loud howl, then punch his fists together and they 
+will both be covered in ice. He shallrun towards the enemy target and damage him twice for 
+his main attack plus 1 damage. This shall not do the bonus damage to any fire type units.
+
+Wind Strike - (Final Upgrade) This unit shall run forward and do a upward (33-45 degree) strike 
+in the air which will blow the current signle target enemy into the air. the enemy will go flying 
+off and hell charge of his arm back as if pulling back a punch but in doing so will bring the 
+enemy back via sending the air towards the character. During this charging back this is when the 
+bonus damage window will be applied. Upon finishing the unit will fly back on screen swiftly and 
+the Ice Character will jump up in the air and smash the target unit back onto the ground. if the 
+target unit doesnt die then it will get up and go back into position. They may have a chance of 
+confusion or dizziness afterwards.
+
+Overworld Ability
+
+The character shall throw his arms out and put a surrounding ice wind around him, it will 
+always go in the direction that hes facing (left or right) the winds shall not damage any 
+surrounding enemies but will push them in the direction of the wind. This shall be used for
+windmill type triggers where he spins a propeller.
+
+============
+Bucket Troll
+============
+
+Name : Grub
+
+This character shall be in a cave/dungeon type area, prefereably a cave. This guy 
+will be found in a town built inside the cave with other trolls. This guys arms 
+will be huge and he'll have an battle axe, the guy will hook a chain to the bottom 
+and he shall use it to throw the axe into wooden type items and use it as a swinging 
+object with the player to leap across areas and get to new areas. This ability shall 
+be the way that he goes across to get the dungeon/level in his area. Some high swithes 
+can be used as well, where he shall stab his axe into pulley switches and it shall 
+activate it upon being pulled. Mainly that swinging ability but can be used to hit 
+buttons in weird/ higher places. open to more ideas about this
+
+Of standing in a marked spot this character can use his ablity to throw his axe directly
+up and pull whatever switch down to activate it. his ability shall always be thrown upwards
+in a 45 degree unless there is an emeny infront of him where it will hook him and start a 
+battle.
+
+An idea for his overworld ability would be to use the water guys to grow a tree and this
+dickweeds ability can be used to swing off a branch across to grab a special item. or 
+using his ability and strength to pull down a draw bridge thats flimsey and up.
+
+This character will be in a village where these guys have a rite of passage that they 
+call the blinding, where they're really dumb but they get their helmets put on and think 
+that theyre blind. Only the blessed ones in battle will have their vision given back.
+In the land of the blind the one eyed man shall be king, and that is bestowed upon the 
+cheif of this village, he shall have a crack running up his helmet but itll be where 
+you can see one eye popping out and do to his sight, he was named king. there may be 
+possibly another one of these guys with a destroyed helmet but he shall be shamed 
+because his helmet was split in battle and they shamed him for taking it off but in 
+truth, that is them stating that the gods have shamed them by making their helmet 
+unwearable and he became an outcast. possibly make it this characters father and this 
+is his reason for adventure and saving his village to restore his familys honour. The
+hemlet that they are given is something they design themselves and shall never be 
+changed, itll be their one and only helmet.
+
+certain spots where this guy can hit to hook, he shall use it to pull yourself up to 
+where he is like the hookshot off legend of zelda.
+
+Small wooden blocks such as a block of a totem or equivelent of one wooden block in minecraft,
+will be ripped out of position causing anytihing above it to fall.If hooked into giant blocks
+such as a giant stone then he can use it to pull, but it shall only move by one unit if so. It
+shall be moved when he is trying to rip his axe out of the stone.
+
+He shall have a anchor tattoed on one arm and a love mom with a heart tattoed on the other.
+
+4 abilities
+
+Chop - (Starting Basic Move) can only hit ground type units, The character runs up to 
+the target unit and chops at him for 2 damage +1 for bonus.
+
+Name in developement - (First Upgrade) The troll character picks up and grabs the enemy
+and tosses him 3 positions back, if there happens to be an enemy there he does 2 damage
+to the opposing enemy. The original unit shall receive 2 damage  + whatever their defense
+bonus is. so if they have a defense of 2 theyll recieve 4 damage, is its -1 theyll recieve
+only 1 damage but the other enemy shall always recieve 2 regardless. Can only hit ground 
+units only
+
+Axe Hook - (Starting Ability) The character throws the axe straight at the unit, which 
+deals 2 damage and hooks into the enemy. When hooked he shall tug the chain, yanking the
+enemy straight towards the troll which then hell punch enemy to unhook them dealing another
+2 damage. If the unit has high defense instead of dealing an additional 2 damage upon the 
+hit it shall only do 1 and the troll shall take 1 damage and do a special animation where 
+he whimpers cuz his fist is hurt.
+
+Hack N Slash - (Final Upgrade) Can only target Ground Units, The Character Does a War
+scream, then runs towards the enemy screaming with his axe in the air, then slashes
+the enemy 3-5 times, probably 4.
+
+On every hit for this attack he shall do a nice spin and damage the unit if its stylish.
+but standard he shall just bash it back and forth on the enemy. while charging this is where
+the bonus damage window will be applied.
+
+Overworld Ability
+
+He shall throw his axe up into any style wood and then bring it in like a hookshot from legend
+of zelda. When used he shall quickly run over to where the player is standing. then throw his 
+axe at a 45degree upward angle. anything wooden this shall hook into and will be used to get 
+into awkward locations and across holes. This partner shall be required to get into a certain 
+dungeon where there shall be an open hole and only his ability will be able to help you out.
+once he dings something the player will jump on his shoulders and ride up while he yanks you 
+to where he want to be.
+
+If there are metal blocks that are high this should be able to ding it and push it over? more 
+shall be applied to this ability
+
+=========
+Sorceress
+=========
+
+This will be the professors schollar/student. She will Be your first partner, she will 
+basically help you out along the story line and help guide the player whenever they are 
+lost during the stroy line progression. always pointing you towards where you should be 
+going. She shall have magical attacks and be floating around when following you. This 
+character shall always have a enchantment book with them at all times.
+
+4 abilities
+
+Magic Projectile - (Starting Basic Move) She shall charge for a bit, showing a ball of light 
+and throw it in the air, when thrown in the air this shall split into mulitple spear head 
+like magic orbs. if she is at her starting level there shall be 2, for every upgrade there 
+shall be an additional spear head.
+
+Examine - (Starting Ability) This examines the unit and she say her own personal description
+regarding the target. This shall putthe entry into the beastiery and you shall forever be 
+able to see the targets hp live in battle. This shall also show when examined a little 
+description of their defense, attack power and max HP. using this it shall show her reading 
+her book and itll look like it is trying to absorb the targeted enemy into the book, but upon 
+sucession, it shall show a "Ghost like version" pop out of the enemy and that shall go into 
+the book then she shall read the entry.
+
+In regards to bosses there shall be a way to recover the Examined log even after missing them.
+this should be from the professor, if you miss him with the battle then he shall inform you 
+via a crystal ball or some shit stating that he has something for you and examined this enemy 
+during battle and made up for your opportunity in missing so.
+
+Elemental/Dark Slash - (First Upgrade) She shall have one of many different style attacks that
+she creates from a sword that she summons, it could be made out of lightning, water, ice,
+fire, metal, rocks. she runs does a charge for a second doing a particular stance then 
+appears infront of the enemy. slashing upwards damaging the unit. Doesnt matter if flying 
+or ground unit. Instead of creating this as a elemental attack this could be just dark 
+energy, like summoining a sword in skyrim and uses that for her attack preventing all this 
+elemental bs and its just a simply clean attack dealing large damage.
+
+Energy Ball - (Final Upgrade) She shall float in the air and start to charge her hands up.
+pretty much like a dragon ball z blast, and then shoot the ball out of her hand towards the 
+target inflicting a large amount of damage, this shall always cut through their defense, it
+will be black and pink in color. she shall charge it in both her hands and push it out with
+both.
+
+idea for another attack, she shall charge a ball and put in the ground, this shall light up 
+the floor showing it travel towards the target enemy and as soon as it hits the enemy target 
+it shall shoot a beam of energy straight out of the ground damaging the target unit.
+
+Overworld Ability
+
+Her ability shall be that which is similar to goombellas in paper mario thousand year door.
+She shall have a dialog part that she starts talking stating where to go next in the game, 
+she shall be there to guide the player at any time that they are lost. She shall have a 
+dialog box forwarding but not directly telling where the player to go, so this will be a 
+big part and start to develope as the story does. after certain parts it shall be updated.
+she is the game desingers way of saying where to go next so if at any time they dont know 
+what to do, she will guide you.
+
+Additional Notes
+
+Professor shall tell you that she is well versed in the dark arts but he has taught the 
+sorceress to controll them.
+
+================
+Saucy The Sniper
+================
+
+Nick Name: Strider
+
+He shall be cross eyed and loaded majority of the time. he shall have a cloak on prior to him joining your team. His face will
+be convered and black and all you shall see are his glowing eyes. he shall be inside of a bar until he joins your team and others 
+around town shall gossip about this strider character being the best archer around town. he is inspired by the magic archer from
+clash royale and legolas but be named after aragorn on how they find him in the fellowship of the ring. When he first takes his hood
+from his cloak down his eyes shall be closed, and when its down his cloak will go from wite to a brownish color and match his outfit.
+His outfit will be completely white when up but be dark and leather looking once down.
+
+4 abilities
+
+Fire Arrow - (Starting Basic Move) The user will start to pull and charge the bow, once the bonus has been executed then
+he shall fire an arrow at the target.
+
+Magic Arrow - (Starting Ability) This shall be a magical arrow that shall shoot everybody in  line, it shall only be either ground
+targets or all flying targets. when firing he shall look up before releasing if it is going to be the flying units and the arrow 
+will go up and curve towards the enemies side when it is in level with the flying units. it will cut through any physical defense
+that they have on.
+
+Volley of Arrows - (First Upgrade) The archer shall point his arrow upwards(could be off be a few degrees towards the enemy position)
+and shall charge up his regular arrow, when hes done charging he shall release the arrow and follow it will a regular arrow and off the 
+screen it shall hit and multiply the arrows raining down a volley of arrows damaging every unit on the enmies side of the field.
+
+Homing Strike - (Final Upgrade) The archer shall charge and release X amounts of magic arrows upwards and they shall all come down and strike 
+the one enemy all at once dealing a large amount of damage.
+
+Overworld Ability
+
+The magic archer will shoot magical arrows, it shall go through particular objects, such as iron bars, glass and fences.
+when the ability is activated the magic archer shall run to the players position and face the way that he is facing and fire
+his arrow. If the button is still held then the arrow shall sit in place. when released then it will act as if the arrows been shot.
+this will be used for timed events where the player must runthrough a door but the hit button will only stay open for a second.
+If this hits an enemy it shall trigger a battle and it will start as a first strike with the partner using this attack as his ability
+(Starting Move).
+
+===============
+Rock/Earth Mage
+===============
+
+
+4 abilities
+
+Terrain Toss/Rock Throw - (Starting Basic Move) The mage will point at the ground with his staff and
+make a chunk of earth/rock come out of the ground, then he shall wave his staff forward throwing it at the enemy.
+The size of the chunck shall grow with each upgrade.
+
+Mage shield/Rock Hide - (Starting Ability) The mage will turn the player into rock for 3 turns giving the player
++1 in defense and an addition +1 in defense for the mages level.
+
+There shall be a small chance that this ability can have an additional effect. there shall be a percentage that 
+the unit will be either covered in metal or gems. Gems shall provide an additional +1 defense on the target unit
+and metal Shall be an additional +2 defense ontop of the original bonus. The chances of gaining the bonus shall 
+go up with the players level
+
+Metal 
+
+Level 1 - 5%
+Level 2 - 7.5%
+Level 3 - 10%
+
+Gem
+
+Level 1 - 5%
+Level 2 - 10%
+Level 3 - 15%
+
+This will give it a 10% - 25% chance of the bonus being applied when the the ability is used.
+
+Earth Power - (First Upgrade) The character shall move forward, stab the staff into the ground and it 
+will shoot up rocks broken up towards all enemy units. Ground only attack, this will
+damage all ground units.
+
+Meteor Mash - (Final Upgrade) The character shall move forward, raise his hands with his 
+staff in hands and he shall have a glow around him along with his eyes light up. While 
+this is going on you shall see a rock in the background just float up in the distance, 
+showing it slowly going up to indidcate the side of it. Then he shall swoop his staff in 
+a downwards mortion and you shall see the rocks fall from the shy, as meteors damaging 
+all opponenets on the field. these rocks shall have either dusty tails and sometimes 
+flaming. this shall damage all enemy units on the field.
+
+Overworld Ability
+
+The mage can turn the player into rock and himself to prevent any damage to the one another.
+This can be used to pass through specific obstacles & used as a weight to gain entry to other areas.
+If used when in the overworld and the player is attacked then this animation will trigger a 
+battle but no damage shall be done to the player. thus starting like a regular battle after the scene.
+There could be changes regarding this depending on hard hits and just a defensive bonus is given.
+
+There shall be the same Odds that the player in the overworld shall have metal and gem coating when the
+ability is activated. there shall be no significance to this other then a cosmetic look.
+
+A use for this is flames being blown from both sides of a dungeon or the shop guys trial where flames
+are blown and the player flies in the air normally but because of this nothing is done.
+
+
+==================================================
+Ideas
+
+mage can protect the player in the overworld with a shield? this can prevent being
+hit from projectiles in the overworld. such as walls of arrows being shit that pushes 
+the player back upon being hit.
+
+Mage type character that doubles up the main players attack
+as well as open a portal under them and then they get teleported down from above

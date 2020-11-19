@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3a24857b9bcec1479a0303bbcb234a2, type: 3}
+  m_Name: TestA
+  m_EditorClassIdentifier: 
+  abilityActive: 0
+  skillName: TestA
+  skillSprite: {fileID: 0}
+  powerPoints: 7
+  groundOnlyAttack: 0
+  airOnlyAttack: 0
+  frontOpponentTargetOnly: 0
+  offensiveSkill: 1
+  multiTarget: 0
+  chargeTime: 0
+  skillDescription: 
+  priorityListing: 19

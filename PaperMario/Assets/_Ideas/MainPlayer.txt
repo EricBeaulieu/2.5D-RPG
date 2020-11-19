@@ -1,0 +1,63 @@
+Main Player
+
+Player Overworld Abilities
+
+Swan/Boat - The player shall fold themselves into a swan in which they will
+swim around. This ability shall only be active when the player is near water.
+The player can only swim in calm water, they can move around normally but if 
+there is land that they can transform back onto then there shall be a notification 
+that is lit up to grab the players attention. If this ability is used in the 
+north area then the player shall animate normally but then theyll go blueish to impliment freezing.
+
+Once the battle is finished all the experience gained from the battle shall be applied to the player.
+
+Upon Leveling Up, the player shall have a choice of one of these 3 attributes to upgrade.
+When they level up the players health along with the partners health will all be set upon max.
+Power points will be fully restored as well.
+
+Health Points
+HP
+
+Base Stat will be at 10 and every upgrade shall increase the players health by 5
+
+Mana Points
+MP
+
+Base Stat will be at 10 and every upgrade shall increase the players mana by 5. When the partner 
+attacks it shall take from the cost of the players pool.
+
+Spiritual Stones
+Stone Slots SS
+
+============
+Level System
+============
+
+Player shall start the game at level 1.
+
+The player shall have a static set experiene table that will go all the way to level 100, anything 
+beyond that will just always give a value of what it is plus 5% to have it always increasing for people 
+who love the game and continue to grind if it ever gets to that point.
+
+During battle the player will gain experience when the enemy is destroyed. 
+experience shall shower out of the enemy while the death animation is playing.
+If the player decides to flee any experience that was gained shall be reduces by 50%, while the player 
+is running away all the lost experience shall be showering out of them.
+
+If the player gained enough experience to gain a level after the battle, then after the stage curtains 
+close, the player shall return onto the stage while the all the partners shall be cheering around in 
+the background. The current partner that was last with you in battle shall have a set position along the 
+side. For the partners in the background they shall always be gathered and only the partners that the 
+player has avaiable during the time will be the ones active in the scene.
+
+When the player has leveled up. The current scene will still be active on the stage. The player will 
+have the opportunity to choose one of three stats to upgrade. Upon upgrading, everyone in the crowd will 
+cheer and depending on what stat the player upgraded there shall be a partical effect showing to help 
+enforce what the player has picked. Upon finishing the selection and animation is over, then it shall 
+return to overworld where the player will continue with the game play.
+
+==============
+Player Attacks
+==============
+
+Slash - (Starting Attack)

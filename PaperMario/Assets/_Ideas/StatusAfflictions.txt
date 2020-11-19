@@ -1,0 +1,123 @@
+Status Afflictions
+
+=======================
+Negative Status Effects
+=======================
+
+Name: Burning
+Caused By: Fire Characters Attack(Still in developement)
+Description: The Targets Attack Physical Attacks Shall Drop By 1 Damage While burnt, This shall last up to 3 turns, 
+they shall receive 1 point of damage per turn, warriors who specialise in fire, such as the fire character shall
+not be hurt by the 1 damage per turn bull shall receive a damage drop?
+any unit using a fire attack while burnt/burning shall recieve a boost in attack by.
+Fire type enemies that end up getting burnt end up healing by 1 hp every turn instead.
+
+Name: Confused
+Caused By: N/A
+Description: The character will be confused and may follow battle commands, but may do random commands, which include attacking allies, instead.
+If the toy soldier is affected by this condition, his winder will react accordingly and have a high chance of using his overclock ability. 
+Any random attacks that end up costing PP shall not be deducted from the combat battle systems PP. Items shall not be used. 
+If random command is selected there shall be a 20% chance they appeal to the crowd, 15% chance to defend and the remainder shall be one of their random attacks.
+
+Name: Dizzy
+Caused By: Being Smashed in the fucking head
+Description: The character will be dazed, which will lower their accuracy for a few rounds.
+Possible to be stackable where the % ranges from 5-40%. could do a tier of severity and that will determine your percentage.
+
+Name: Frozen
+Caused By: Ice
+Description: The character will be frozen and unable to move for a few rounds. 
+Their defense shall be up by 1 due to the ice while frozen but still taking hits.
+Fire type moves shall thaw out the enemy but they shall resist 1 damage from the attack thawing them out ontop of the extra defense they have.
+This can affect an ice type character, including the ice partner, but shall act as a bonus giving them a +1 in defense instead of being 
+unable to move. If a ice type character is frozen and end up using an ice attack it shall have a boost of 1 damage.
+
+Name: Poison
+Caused By: to be determined moves
+Description: The infected player will lose 1 HP per round. There can be a severity to this where it can last from a range 3-9 turns.
+possibly doing 2 damage per turn? More ideas to follow.
+
+Name: Defense Down
+Caused By: N/A
+Description: The characters defense shall be reduced by 1 for 3 turns.
+
+Name: Attack Down
+Caused By: N/A
+Description: The characters attack shall be reduced by 2 for 3 turns.
+
+Name: Asleep
+Caused By: N/A
+Description: The character will not be able to attack nor move, this shall range for 2-3 rounds.
+The sleeping character is awakened once attacked.
+
+=======================
+Positive Status Effects
+=======================
+
+Name: Attack Up
+Caused By: N/A
+Could make the bucket troll have a war scream that gives both parties this buff?
+Description: The Characters Attack Power will be increased by 2 for 3 rounds.
+
+Name: Charged
+Caused By: N/A
+Description: The damage for the next attack shall be increased by 2, if charged again this shall 
+increase by 1 for each stack upto a max of 5. This bonus shall disappear upon attacking, if it is
+a multi attack each attack shall have that bonus. this bonus will not disappear if non attacking 
+moves are used unless a dispell move is used.
+
+Name: Defense Up
+Caused By: N/A
+Description: The Characters Defense will be increased by 1 for 3 rounds.
+
+Name: Evasive
+Caused By: N/A
+Description: The character's evade rate will increase for a 3 rounds.
+Possible to be stackable where the % ranges from 5-25%. could do stages and that will determine your percentage.
+
+Name: Invisible
+Caused By: N/A
+Description: The character will be transparent for a round. An invisible character cannot be targeted by any attack.
+Can be hurt by splash damage.
+
+Name: Flame Cloak
+Caused By: N/A
+Description: The character will have a flame cloak surrounding them, and physical attacks done to this character
+will recieve 1 damage, if the attacking character is a flame type creature they shall be healed by one. If current 
+character is burnt while this is active they shall recieve 2 damage per turn while this is active. If their burning 
+status shall end before this then it will be extended to the same time as this. If the creature this is used on is Ice type
+then this shall do 1 damage per turn while this is active and weaken their attack and defense by 1. if this character is 
+recieving a fire attack then they shall recieve 1 extra damage ontop of the attack. If used on a frozen character they 
+shall be thawed out immediately.
+
+Name: Winter/Frost/Ice Cloak
+Caused By: N/A
+Description: The Character will have a ice/snow cloak surrounding them, this shall add frost damage done to any 
+physical attacks as well as 1 damage bonus. While this is active The character has a higher chance of becoming frozen, 
+unless fire creature, if this is used on a water creature this shall increase their chances of becoming frozen further.
+Regarding Water Type Creatures only,Their attack shall be be reduced by one and defense shall go up by one, upon the 
+final turn this creature should become frozen but only for 1 turn. If this is used on a frozen target the duration of 
+their frost shall be increased to 3 rounds (maximum) but give them a +1 defense only while frozen, ontop of the benefit
+they have already from being frozen.
+
+Name: Water Veil
+Caused By: N/A
+Description: This character will have a viel of water surrounding them, increasing their defense by 1. Any water attacks 
+and fire attacks will be reduced by 1. Ice attacks will do +1 damage and ignore the defense bonus recieved from this.
+This has a 10% added chance of becoming frozen regardless if the ice type attack had a chance of freezing or not.
+If used on a burning Character their burning status shall be healed immediately.
+
+HP Regenerate
+
+PP Regenerate
+
+Big
+
+
+Name	Caused By	Description
+Big	Power Punch	The character will wake up to find themselves transformed into Tom Hanks... er... they will actually just grow, which will temporarily increase their Attack Power by 2.
+Electrified	Volt Shroom, Peach Tart, Love Pudding, Zap Tap Badge, Lucky Start Badge	Somebody that directly attacks an electrified character (ie touches him while they attack), will receive slight damage. The effect lasts a couple of rounds with the Volt Shroom, but is permanent with the Zap Tap Badge.
+Fast	Goombella's Rally Wink	The character will be able to attack twice per round. Rally Wink only gives this status for the current round.
+FP Raise	Gradual Syrup, Lucky Start Badge	The character will gain 2 FP per round for a few rounds (10 rounds when using the Gradual Syrup).
+HP Raise	Slow Shroom, Couple's Cake, Meteor Meal, Shroom Broth, Lucky Start Badge	The character will gain 2 HP per round for a few rounds (10 rounds when using the Slow Shroom).
+Payback	Spite Pouch, Bobbery's Hold Fast, Return Postage Badge	For a few rounds, any direct attacks will cause half the damage inflicted to be recipricated on the attacker. With the Return Postage Badge, this effect is permanent.

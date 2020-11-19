@@ -1,0 +1,2 @@
+partner just pushes player off the map, this only happens if the player faces right and the partner is to his right and 
+tries to go to the players left side, instead check the player as well if theyre touching one another

@@ -1,0 +1,138 @@
+Battle System
+
+Battles take place on a stage. 
+In addition to the traditional turn-based combat, the characters on-stage interact with the scenery: 
+sometimes the background will fall. Certain attacks/abilities will have a higher chance of the background props falling over.
+More will be available in time but the earth power of the mage is an example of higher chances. Light fixtures, 
+sand bag and poles can fall over and damage the characters around.
+damaging any and all characters on stage and possibly making them Dizzy. depending on what hits them will give different 
+chances of becoming dizzy.
+
+/*
+the audience helps Mario gain Star Power and also may throw items on stage or attack Mario and his partners, 
+and lastly, some bosses even use the audience to their advantage. 
+For example, Hooktail eats some of the audience to regain 10 HP, also causing all other audience 
+members to flee, making it impossible to gain any Star Power. In addition, the battle shifts off-stage.
+*/
+
+Overworld
+
+The player will have the chance to use partner abilities as well as jumping and slashing outside of battle. on non special units
+(bosses or scripted battles) they can either enter the battle by attacking an enemy unit walking around in the overworld, being attacked by
+the enemy in the overworld, or by them attacking eachother at the same time in the overworld.
+
+***************************
+Battle Positions and layout
+***************************
+
+The battles shall always be layed out on a Stage as if its an act as tribute to the game that its inspired by Paper mario.
+
+There shall be the players side of the field (left side of stage) and the enemies side of the field (Right side of the stage).
+The players side of the feild shall always and only contain 2 units. The protagonist and the partner. Whenever the battle starts it shall always
+have the protagonist closer to the centre of the stage (Player Position 1) and the partner behind them (Player Position 2).  Enemies shall have
+a similar setup where there is 2-5 units spawned in. Their positions go in order from left to right (enemy positions 1-5).
+
+When it is the players turn and neither the partner nor protagonist have attacked then they can switch positions on the field.
+if either has attacked then they will not be able to switch positions. whomever has attacked first will always be in the front spot 
+and is more vunerable to being attacked.
+
+When the battle starts in a standard scenario you shall see the battling units run from behind the curtain on their side of the stage into 
+their set up positions.
+
+The layout of the stage shall evolve with the players level, at the start of the game it shall look run down(curtains, base of the stage).
+while the players level progresses (intervals of either 5 or 10) the stage shall upgrade. at the endgame the stage shall have a clean well 
+maintained look/stylisation.
+
+The background and props/ doodads used on the stage shall all depend on the level design and there shall be multiple scenarios of what the stage 
+will look like depending on the level where the battle in the overworld took place.
+
+****************
+Pre battle entry
+****************
+
+there are 4 different types of battle entry. Standard,First Strike,Enemy First Strike, Power Struggle
+after each entry is complete, the game shall start and the player shall be given controll of their commands resuming to normal battle.
+prior to entering the battle, whomever is getting hit in the overworld will always display a damage animation prior to curtains being closed.
+
+Delegates could be used prior to this perhaps?
+
+Standard battle entry
+
+In the overworld both the enemy and player/partner bump into one another causing no special entries and the battle begins normally.
+
+First strike
+
+The player/Partner uses their ability to attack the foe in the overworld. Once the battle starts it shall begin with whomever 
+did that attack using their overworld attack in the combat arena.
+
+If the player did a standard slash then the battle shall begin with them using their slash attack with the normal charge.
+if the partner (toy soldier example) used their block drop ability and it landed on an enemy then the battle shall start 
+with that ability being used in combat.
+once finished then it shall return to the players turn as if it was a standard battle.
+
+Enemy First Strike
+
+Same as the previously mentioned statement, the first unit in the enemy batallion is always the same as the overworld enemy. This shall start
+the battle with them using the same attack that they used in the overworld. The player still has the ability to guard or counter, the enemy 
+shall attack whomever they hit while in the overworld. 
+
+Power Struggle
+
+This is only available if the player uses a slash attack while the enemy uses a similar attack with their weapon theyre weilding. 
+This shall start the battle where both the player and the enemy run at one another and they will have there swords clashed at one another
+and certain (currently buttom mashing) actions are executed and if the player wins theyll do double damage and vice versa. 
+These are all uncertain about the damage and if it ignores armor but shall be finer tuned later on. equivelent to lancers in gears
+with the chainsaw battle.
+
+Instead of button mashing this could be a rock paper scissors mechanic.
+If the player wins then this will do the damage of a normal slash attack, this will not ignore armor but do the regular damage
+along with the bonus damage. (essentially double damage). If the opponent wins then the opponent will do double damage to the player.
+If its a draw then this will do no damage to either the player nor the opponent.
+
+When in a power struggle the combat will start with them clashing at one another, the camera will be zoomed in towards their position
+on the field, on the controller the left button, up button and right button will represent the selection of rock paper scissors. once 
+a selection is made then that shall be highlighted, and press the down button to complete selection.
+
+If looking at an xbox one controller then X will represent the left button (Rock), Y will represent the Up button (Paper), B will
+represent the right button (Scissors) and A will represent the final selection.
+A will not be available until one of the 3 selections have been made, another button could be shown (RT) to represent a Random Selection
+button but the player will not know which one it is until the final selection has been selected. it could show a ? mark in the center.
+
+While the power struggle is active nothing is going to happen until the player makes a selection, the battle scenario will continue in 
+this phase until the player inputs a selection. One this is finialized and the attacks been done then this shall start to the players
+turn.
+
+*****************
+Turn Based Combat
+*****************
+
+After the pre entry battles scenarios have played out or if its a standard battle, it shall resume to a straight forward turn based combat.
+There is no speed factor involved so the battle shall always revolve in a particular manor depending on everyones positions.
+
+
+*************
+During Combat
+*************
+
+Guard
+
+The player shall press the (A button, Interact Button) at a 2 second window before the enemy unit hits either 
+the player or partner where this will prevent whatever damage is done by 1.
+
+Counter Guard
+
+The player shall have a smaller window compared to the regular guard. The player shall press the (B Button, Slash Button).
+This shall prevent any damage at all and attack back towards the enemy.
+it shall only do 1 damage unless there are other badges that are attached to the player/partner tht raises their natural attack 
+point where it will do 1 plus the benefits. attacks such as a arrow of throwing axe will be deflected preventing an damage but no return damage.
+
+*******
+Attacks
+*******
+
+All attacks shall have a charging phase that they shall enter. While the player/partner is charging there will be a opportunity them to do bonus 
+damage to the target(s) unit. The bonus damage will have a prompt come up showing what the player will have to do in order for the bonus damage 
+to be applied. if the requirements are met then the bonus damage will be applied. All attacks shall have a different style of bonus and they will 
+all be detailed along with the attack.
+
+Any rock attacks that are thrown at flying enemies shall do an additional 1 damage.

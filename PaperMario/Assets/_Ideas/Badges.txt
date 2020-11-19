@@ -1,0 +1,29 @@
+Badges
+
+
+//Additional Effect style
+Name:
+Badge Power Cost:
+Effect:
+
+//Additional Attack style
+Name:
+Badge Power Cost:
+Power Point Cost:
+Effect:
+
+==============
+Keen Eye Badge
+==============
+
+Name: Keen Eye
+Badge Power Cost: ???
+Effect: Increases Accuracy and/ or never misses
+
+=====================
+Drunken Mastery Badge
+=====================
+
+Name: Drunken Mastery
+Badge Power Cost: 10 BP
+Effect: Dizzy doesnt cause the player to hurt himself, it increases the players damage by 1 instead.

@@ -1,0 +1,540 @@
+Enemies
+
+curruption levels?
+normal
+infected
+afflicted
+corrupt
+possessed
+
+Ranks
+novice
+apprentice
+journeyman
+expert
+master
+
+Summary:
+Attack:
+Attack Summary:
+Description:
+
+=============
+Enemy
+=============
+
+Name:
+Summary:
+Attack: 
+Attack Summary: 
+Description:
+Location Found:
+
+=============
+Swine Soldier
+=============
+
+Name: Swine Soldier/swine swordsman
+Summary:A pig in soldier armor, his armor shall be leather and somewhat soft.
+starting basic enemy. shall have a sword.
+Attack: Slash
+Attack Summary: he shall run up to the enemy and slash him with his sword.
+Description: This shall be a pig in leather armor, he shall have a basic iron
+or bronze colored sword.(bronze will probably be better fit due to the color 
+of leather). he shall be standing on his hind legs. obviously fat in wieght,
+no defensive bonus.
+
+==========
+Flying Pig
+==========
+
+Summary: Same as pig solider but with wings, he shall be flying but without
+a helmet, he shall have a sword. when hit he will loose his wings and revert
+to a swine soldier
+Attack: Dive slash
+Attack Summary: he shall hover over to the enemy and do a diving slash when 
+attacking and hit the target with his sword.
+Description: The big shall be in leather armor but have no hemlet. he shall
+be flying in the air. basically a flying version of the other pig. If hit,
+and this unit survives then he shall revert into the swine soldier and be on
+ground, on his hind legs.
+
+====================
+Spikey Swine Soldier
+====================
+
+Summary: similar to the swine soldier, this unit shall have a spear instead.
+Attack: poke
+Attack Summary: the unit shall run at the enemy and poke him with his spear
+Description: This unit shall be simliar to the swine soldier but instead 
+have a spike on his head to prevent being jumped on, or for this unit he 
+shall defend hiself with the spear as his armor is leather.
+
+==========
+Ranger Pig
+==========
+
+Summary: Similar to the swine soldier, this unit shall have a bow and
+arrow instead.
+Attack: shoot
+Attack Summary: the pig shall shoot the target with an arrow
+Description: The unit shall be similar to the swine soldier, be in 
+complete leather buy be equipped with a bow and arrow.
+
+=================
+Flying Archer Pig
+=================
+
+AKA Cupid pig
+
+Summary: Flying pig but with a bow and arrow
+Attack: shoot
+Attack Summary: the pig shall shoot the target with an arrow, upon
+release he shall spin in the air.
+Description: he shall be the exact same as the flying pig but with a
+bow and arrow.
+
+======================================================================
+
+===================
+Apprentace Pig Mage
+===================
+
+Summary: Magical pig in a cloak, he shall have a staff
+Attack: Staff Bash
+Attack Summary: hits the target physically with his staff
+Attack: fireball
+Attack Summary: shoots a fireball at the target unit
+Attack: heal
+Attack Summary: heals the target ally for small amount of health
+Description: This pig shall be in a cloak,colour undetermined, uncertain about 
+the hat but shall be similar to magikoopa
+
+===========
+Boar Basher
+===========
+
+Summary: this unit shall be similar to the swine soulder in armor, he shall have 
+a war hammer
+Attack: Bash
+Attack Summary: Smashes target with war hammer
+Description: He shall have big tusks going from inside his mouth up towards his 
+snout. He shall have a war hammer and be standing on his hind legs, he shall be
+a bit taller then the swine soldier but obviously darker in colour.
+
+=======
+Furnace
+=======
+
+Summary: Basic foot soldier but has the ability to open his chest and add a fire 
+spirit to battle.
+Attack: Slash
+Attack Summary: he shall run up to the enemy and slash him with his sword.
+Attack: Fire Spirit Summon
+Attack Summary: This unit will open his chest and a fire spirit shall take a place 
+in battle. cannot be used if all poitions are taken in battle.
+Description: This shall be a foot soldier unit in armor with a logstove type door 
+on the front of him showing the fire burning inside. he shall be weilding a short 
+but fat sword, similar to the mini pekkas weapon and size. his armor will be black.
+
+===========
+Fire Spirit
+===========
+
+Summary: Floating Fire ball enemy
+Attack: Tackle
+Attack Summary: Floats over and bumps into target hurting them for 2 damage.
+Description: Fire ball that is created from the furnace enemy. low health and alright
+damage, a minor annoyance enemy.
+
+===========
+Magma Golem
+===========
+
+Summary: 8 ft golem, similar to the ice partner in size. he shall have dark burn cracks 
+on him with glowing lava within cracks on his body
+Attack: Magma shot
+Attack Summary: shoots target with a ball of magma, shall be similar to a rock throw 
+with extra fire damage. ball shall be more solidified.
+Attack: Magma plume
+Attack Summary: Magma Golem shall puke into his hand and form the lava into a ball shape, 
+he shall throw it at the target, it shall start to open up while going towards the target. 
+Similar to super buus goo from dragon ball z when it opens up to take its target. can not 
+be deflected back at the target but whomever super guards it shall cut right through it 
+instead to prevent damage.
+Description: he shall be tall and bulky in apprearance with lava cracks all over his body. his eyes will 
+be lava colored and will have a steam looking effect above him if possible. strong offensive and have alot of health.
+
+========================================================================
+
+===========
+Flame Golem
+===========
+
+Summary: 6 ft golem, with a body full of fire like meramon. 
+Attack: Flamethrower
+Attack Summary: he goes towards the target(centre of the stage), and shall breathe fire all over his target.
+Attack: Fire Punch
+Attack Summary: He shall run up towards the front target and punch them directly, dealing extra fire damage.
+Description: this shall be a golem made out of fire, he shall be weak in hp but strong in offense.
+
+=============
+Beetle
+=============
+
+Name: Beetle
+Summary: This shall be a rhinoceros beetle. It will be a rideable unit and enemies shall be ontop of him.
+this unit can also be flying as well
+Attack: Charge
+Attack Summary: this unit shall charge straight at the target dealing X damage upon contact. (2 Damage?)
+Description: If this unit is mounted then this shall not have its natural attacks available. 
+any attacks that its mounted rider do that are physical shall have an additional 1 damage due to the charging bonus.
+if this unit is flying then its rider shall not be able to be targeted by particular attacks(such as a arrow) but 
+if the mage uses rock throw or something of the sort it shall damage both the beetle and the rider. The rider can 
+still be targetted by jump attacks though. I feel like this will be the best mounted enemy.
+
+====================
+Rock/Bug Fighter Jet
+====================
+
+Name: N/A
+Summary: This be a flying type unit that is dark green, it will look like a kabuto type head with the stealth 
+fighter jet type body
+Attack: Airial Slash
+Attack Summary: The unit shall quickly charge at the target and slash by damaging the unit for a small amount of damage.
+Description: This shall be a mid size type unit but weak in all stats, more of an annoyance type unit that will be flying
+it shall do small amounts of damage but be hard to counter when it hits the target.
+
+==========================
+Rock/Bug Fighter Jet Swarm
+==========================
+
+Name: N/A
+Summary: This shall be 25 of the previously mentioned enemy and shall have the flocking technique/method
+Attack: Airial Assault
+Attack Summary: 3-5 of the units shall hover above the swarm, and they shall attack in the same standard 
+that they do with their original form but in a assult manor where they shall attack the target one after 
+another(1 second breaks in between each attack?)
+Attack: Swarm
+Attack Summary: These units shall break off and surround its target and swoop around them in a X formation 
+and deal a great amount of damage in one hit.
+Description: this shall be a swarm of the above mentioned units and will resemable a mini boss, it will 
+resememble the swarm of fuzzies from paper mario thousand year door
+
+====
+Bats
+====
+
+Name: Bat
+Summary: small weak flying unit, low health, no defense and low attack. They will usually have high numbers of units when in battle
+and will usually assist other enemies battalions
+Attack: Tackle
+Attack Summary: Bat swoops down and hits the opponent
+Attack: Bite
+Attack Summary: Bat swoops down, latches on the opponent and bites them. This shall heal them by 1 damage and cause at minimum 2.
+Description:
+Location Found: Troll Dungeon
+
+========================================================================
+
+===============
+Tazmanian Devil
+===============
+
+Name:
+Summary:
+Attack: Spin attack
+Attack Summary: He shall spin around really fast like a whirlwind and smash the player quick
+Description:
+Location Found: Jungle
+
+========================
+Fully Infected Troll/Bat
+========================
+
+Name:
+Summary: These enemies shall have no legs, 4 wings on their back like crobat and have the torso of a troll.
+Attack: Life drain/Bite/leech life
+Attack Summary: They shall swoop down and bite the target, draining half the damage that is dealt or just one.
+Attack: Punch
+Attack Summary: The user shall swoop down, grab the target and just punch him in the face
+Description: This shall be the complete combination of a bat and a troll where they were both infected and fused together.
+Shall have a dark pruple coloration and dark green inside of the wings. hell have his big husk teeth with his big giant 
+arms for decking people.
+Location Found: Troll dungeon
+
+==================
+Infected Troll/Bat
+==================
+
+Name:
+Summary: this shall be a troll that has just started to turn into the other form and blended with a bat.
+Attack: Flail
+Attack Summary: They shall fly over the target hover down slowly and start to flail their arms at them in a desperate attempt to attack.
+Description: This shall be the complete combination of a bat and a troll where they were both infected and fused together.
+the top half of his body will be that of a troll but his legs will be bat wings and do to this he will be flying upside down flopping
+all over the place.
+Location Found: Troll dungeon
+
+=============
+Spiders
+=============
+
+Name: Spiders
+Summary: Ridable units within the dungeon area. They shall have higher health then a standard ridable unit.
+Attack: Impale
+Attack Summary: The spider shall run up towards the target unit, raise his front end of his body and stab the target unit with one of his legs
+Attack: Web Shot
+Attack Summary: the unit will turn around and shoot a charged shot in the air towards the target. this can be batted back towards the rider
+if they are available or it will go and hit the front unit.
+Description: some trolls shall be riding these units. they shall have high health but low attack and no defense. they shall have big 
+red eyes and be large in size
+Location Found: Troll Dungeon
+
+=====================
+Infection Spider Bats
+=====================
+
+Name:Infected Spider Bats
+Summary: These shall be a mix between spiders and bats. theyre not ridable but will be smaller then spiders and 
+have low health and regular attack but be high in numbers.
+Attack: Impale
+Attack Summary: The spider bat shall run up towards the target unit, raise his front end of his body and stab the target unit 
+with both of his legs
+Attack: Bite
+Attack Summary: The spider bat shall run up towards the target unit jump on them and bite them.
+Attack: Spawn Spider Bat Abomination
+Attack Summary: This shall spit out a hatchling that is just an annoyance and act as a wall, it can only be used in the front position is
+unocupied and shall spit out a purple blob(ditto look) with bat parts and spider parts hanging out of it. it cannot attack.
+Description: These shall be a mix between spiders and bats. 4 of its legs, the middle ones shall be tiny little wings to show conversion 
+between the infection. It will not be flying at this point but will have a spider head with its abdomen but the body shall be tiny like a bat.
+its chelicerae (face arms, lips) will start to point flip on the bottom of its face(as apposed to its regular position on top of its lips)
+and point upwards to look fangish.
+Location Found: Troll Dungeon
+
+========================================================================
+
+======================
+Spider Bat Abomination
+======================
+
+Name: Spider Bat Abomination
+Summary: Just a wall to temporarly defend whomever is on the field, an annoyance unit. Can only be spawned in, will not be 
+available in the outer world
+Attack: N/A
+Attack Summary: it will just squeal and jiggle
+Description: This is an annoyance unit and will do nothing, it is to be used as a wall unit and cost the player an attack to be more strategic.
+Location Found: Troll Dungeon
+
+=========================
+Fully Infected Spider Bat
+=========================
+
+Name: Fully Infected Spider Bat
+Summary: Small annoying unit that spawns enemies with low health and high numbers
+Attack: Bite
+Attack Summary: Spider bat flies onto the target unit and bites them dealing 2 damage.
+Attack: Goo Shot
+Attack Summary: Shoots a ball of goo simliar to super buu about to take gohan or piccolo in dragon ball z at the target unit.
+If countered they shall slash through this rather then deal damage back.
+Attack: Spawn Spider Bats
+Attack Summary: This shall spawn 1-3 spider bat hatchlings depending if there are locations that are open and how many. Cannot be used if there are
+no slots open.
+Description: This shall have the head of a spider, its eyes shall be purple. it will have 4 large wings, which will be on the top of its torso
+and 2 smaller wings on the sides of its abdomen. it will he alot smaller in size compared 2 its otehr counterparts, it shall have 2 large fangs
+and little arms on the bottom of its lips (chelicerae)
+Location Found: Troll Dungeon
+
+====================
+Spider Bat Hatchling
+====================
+
+Name: Spider Bat Hatchling
+Summary: This shall be a baby hatchling of the Fully Infected Spider Bat
+Attack: Sting
+Attack Summary: The spider hatchling will stab the target with its abdomen
+Description: it will have only 2 wings rather then all 6, it will use its abdomen will be thinner then the adult version that it will use as
+a stinger its fangs shall be small little stubs. it will only be one hit to kill this unit and do small amounts of damage. This shall be an
+annoyance unit that will cause the player to attack the adult/spawner. cannot be found in the world but can be with these units when engaged.
+Location Found: Troll Dungeon
+
+==========
+Rock Golem
+==========
+
+Name:Rock Golem
+Summary: A high defensive high halth unit that shall be roaming around with a rock shape body and some small foilage 
+,vines  or grass growing on him
+Attack: Rock Smash
+Attack Summary: They shall go up to the front unit and punch them dealing quiet a bit of damage
+Attack: Ground Pound/Shockwave
+Attack Summary: The Rock Golem will go to the midle of the stage and smash the ground, the ground shall come upwards underneith
+the targets dealing damage.
+Description: This shall be a High health unit and would be found in small numbers but take a bit of turns to destroy. they shall be similar
+in design to the trolls from fable but could have a tree growing off the back of them or a bush or vines coming off their body. they shall
+hit hard and wont be as common around in the world. they shall be easy to run away from as their overowrld movement speed shall be slower 
+then normal.
+Location Found:
+
+============
+Flame Mother
+============
+
+Name: Flame Mother
+Summary: This is a female flaming enemy. She shall always have children with her in her party. low health and high damage.
+Skinny and somewhat hovering but not considered a flying unit
+Attack: Flame Tackle
+Attack Summary: The user will be engulfed in flames and tackle its target
+Attack: FireBall
+Attack Summary: The user will put their left hand out and a fireball shall be created and they will toss it at the target unit
+Ability: Super Saiyan
+Ability Summary: When one of the children in her party die, she shall have a flaming aura gather around her and become more pumped up, thicker
+in muscle and have a angry stance. when active her attack and defense shall grow by one.
+Description: This Shall be a skinny fire spirit looking character similar to the fire spirits from skyrim. she shall be a fire type
+creature. She will be hovering when in normal state but when angry she will be down on the floor in a aggressive stance. a fire aura will be 
+surrounding her when active. She has fire type units with her and acts as a mother towards the children in her party. When her ability is active
+her attacks shall become bigger in size.
+Location Found: Fire Dungeon
+
+========================================================================
+
+============
+Flame Child
+============
+
+Name: Flame Child
+Summary: This is a flaming enemy. these children will never be found on the overworld but always be spawned with their flame mother.
+they shall have low health and moderate attack.
+Attack: Flame Tackle
+Attack Summary: The user will be engulfed in flames and tackle its target
+Attack: FireBall
+Attack Summary: The user will put burp into their hands and a fireball shall be created which they will toss it at the target unit
+Ability: Super Saiyan
+Ability Summary: when their mother dies this shall activate,they shall have a flaming aura gather around them and become more pumped up, 
+thicker in muscle and hover with their hair up as well. when active their attack and defense shall grow by two.
+Description: This Shall be a fat fire spirit looking character similar mother but obviously a child variant. they shall 
+have both male and female looks. they shall be a fire type creature. theyll be sitting or stnading when in normal state but when 
+angry they will hover in the air in a aggressive stance. a fire aura will be surrounding them when active. they are fire type enemies 
+and acts as a mother towards the children in her party. When their ability is active their attacks shall become bigger in size.
+Location Found: Fire Dungeon
+
+======
+Bosses
+======
+
+==================
+Troll Dungeon Boss
+==================
+
+Name: Project Shadow Nigga
+Summary: This shall be the main player that shall be from project shadow, he shall be a mix of the beetles that 
+have been deformed by the in game sludge enemy and shall be a tank like unit
+Attack: 
+Attack Summary: 
+Description:
+Location Found: Troll Dungeon
+
+==================
+Snow Leopard Boss
+==================
+
+Name: Snow Leopard
+Summary: A leopard that has a white coating and stands on its hind legs. it has sabre tooth tiger teeth.
+Attack: Blizzard Howl
+Attack Summary: The Boss shall breathe in deeply and do a howl, but when its done there shall be a blizzard going on and it will hurt both
+the player and partner simultaneously
+Attack: Ice Punch
+Attack Summary: The leopard shall hold his one fist back and it shall start to freeze up and he will jump and punch the target
+Attack: Ice Power
+Attack Summary: The Boss will punch the ground and it shall show ice going towards the targets and when it goes under the player 
+and partner it shall come up and damage both
+Description: A leopard that has a white coating and stands on its hind legs. it has sabre tooth tiger teeth.
+Location Found: Ice Dungeon
+
+Additional Notes: Ice boss shall be white with light blue and purple for color scheme. The purple shall be veins and glowing.
+
+=========================
+Stumpy The Flame Tortoise
+=========================
+
+Name: Stumpy
+Summary: a giant tortise that will be flaming themed and have a bright orange spikey head. he shall have 2 hidden spray nozzels
+that shall release like blastoise once a certain point is triggered.
+Attack: Smoke Breathe
+Attack Summary: Steam will shoot out of its back  and smoke will come out of his mouth covering up the stage, 
+this will cause the players and partners accuracy to fall
+for a temporary amount of time.
+Attack: Magma Crunch
+Attack Summary: He shall have magma/Lava coming down the sides of his mouth when running towards its target and bite them.
+Attack: Magma Shot
+Attack Summary: This will be a blackinsh with fire color scheme. it will shoot a fireball similar to buus goo type shot.
+Attack: Tackle/ Charge/ Headbutt
+Attack Summary: Stumpy will charge and tackle the target enemy
+Description: This is the fire characters pet that disappeared and at some point you shall find the fire character looking towards 
+the enterance of the dungeon asking if youll help him find his tortise stumpy. as you progress and find him hell be so happy that 
+he got so big.
+Location Found: Troll Dungeon
+
+===========================
+Ideas
+===========================
+
+Land Shark/Earth Shark - theyll be in the earth/rock dungeon. there fin will be moving aroud on the land and the sand will be up around showing
+their movement in the world. when it is in battle it shall show it somewhat up out of the water. where the head/ torso is up out of the water 
+and the back fin is still in the dirt. as if its on a angle of 33.3. if its on the land or any other terrain it will be on its belly.
+it shall have sand coming out the side of its mouth, that shall move towards its belly that it will use to actually movearound when there is 
+no sand. as if its gliding on it. it will be swirling around it like a little sandstorm and going back up into its gills.
+
+boar basher -- made
+
+moose priest
+
+soldier/swordsman
+captain
+knight -- sword on horse
+jouster -- lance on horse
+archer/ranger
+mage/sorceress/priest
+
+ranger and theif fox
+
+falcon,hawk  -- ice forms and flame forms
+pig riding horse
+
+pig fused horse
+- this shall have the body of a horse but the head part shall be a pig like a 
+centaur , he shall have a sword on him but his armor shall be attached to the 
+horse and be purpleish in colour.
+
+Stag
+
+walrus
+
+polar bear
+
+golem
+
+giants
+
+ice golem
+
+trolls
+
+golems
+
+snake
+
+wolves
+
+bear
+
+ice character enemies, big yeti silverback guys
+
+pig riding stag
+
+infected pig stag
+-this shall be the fully infected form where he has poison all over his body,
+the head shall be a stag and the body will be that of a pig, when he goes to attack,
+you shall see a poison string as if its being pulled from the back of his head and 
+go to the end of his back, it shall straighten/tighten and the bolt shall be liften 
+into angle then fired towards the enemy
